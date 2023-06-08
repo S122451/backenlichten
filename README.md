@@ -27,6 +27,7 @@ De lampen die nu worden gebruikt is maar beperkte communicatie met mogelijk. Dit
 
 ## Globale hardware analyse
 ![image](https://github.com/S122451/bakenlichten/assets/94835931/fc74ef78-f1a7-435d-9236-11c2b7f2ecc5)
+
 De baken zal bestaan uit een kast met daarin een pcb en een voeding. Op deze kast zijn aansluitingen waar de lichten op kunnen aangesloten. Dit geld ook voor de sensoren die worden gebruikt. Het zonnepaneel bevind zich bovenop de baken en wordt via een kabel aangesloten op het voeding gedeelte van de kast. Deze kast mag niet te groot zijn omdat deze mee aan de paal wordt bevestigt. Hierdoor zal dus ook de accu een beperkte ruimte hebben. In de kast worden ventilatoren aangesloten om deze te verluchten. Hierover later meer. 
 
 ![image](https://github.com/S122451/bakenlichten/assets/94835931/585c6b56-ecd0-4094-ad62-f01a1da15597)
